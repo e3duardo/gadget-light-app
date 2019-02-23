@@ -1,0 +1,6 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\HotmailGadget.dll
+bin\Debug\HotmailGadget.pdb
+bin\Debug\Interop.MSXML2.dll
+obj\Debug\HotmailGadget.dll
+obj\Debug\HotmailGadget.pdb

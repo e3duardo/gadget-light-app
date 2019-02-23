@@ -1,0 +1,10 @@
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\MyWindowsUtilities\MediaCenterLightApp\bin\Debug\MediaCenterLightApp.dll
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\MyWindowsUtilities\MediaCenterLightApp\bin\Debug\MediaCenterLightApp.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\MyWindowsUtilities\MediaCenterLightApp\bin\Debug\BDATunePIA.dll
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\MyWindowsUtilities\MediaCenterLightApp\bin\Debug\mcstoredb.dll
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\MyWindowsUtilities\MediaCenterLightApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\MyWindowsUtilities\MediaCenterLightApp\obj\Debug\MediaCenterLightApp.Resources.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\MyWindowsUtilities\MediaCenterLightApp\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\MyWindowsUtilities\MediaCenterLightApp\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\MyWindowsUtilities\MediaCenterLightApp\obj\Debug\MediaCenterLightApp.dll
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\MyWindowsUtilities\MediaCenterLightApp\obj\Debug\MediaCenterLightApp.pdb

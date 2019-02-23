@@ -1,0 +1,9 @@
+﻿<application title="MediaCenterLightApp" id="{21fc83ab-9270-46a7-b502-f60fbdddc3fb}">
+	<entrypoint id="{a770a100-67b7-439a-b007-c4defaad1fe1}"
+				addin="MediaCenterLightApp.MyAddIn, MediaCenterLightApp,Culture=Neutral,Version=1.0.0.0,PublicKeyToken=194910e93648a2e9"
+				title="MediaCenterLightApp"
+				description="MediaCenterLightApp Description"
+				ImageUrl=".\Application.png">
+		<category category="More Programs"/>
+	</entrypoint>
+</application>

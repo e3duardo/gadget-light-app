@@ -1,0 +1,18 @@
+C:\Users\Eduardo\Desktop\GadgetInterop\GmailReader\bin\Debug\GmailReader.dll
+C:\Users\Eduardo\Desktop\GadgetInterop\GmailReader\bin\Debug\GmailReader.pdb
+C:\Users\Eduardo\Desktop\GadgetInterop\GmailReader\bin\Debug\GmailReader.tlb
+C:\Users\Eduardo\Desktop\GadgetInterop\GmailReader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\GadgetInterop\GmailReader\obj\Debug\GmailReader.Properties.Resources.resources
+C:\Users\Eduardo\Desktop\GadgetInterop\GmailReader\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Eduardo\Desktop\GadgetInterop\GmailReader\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Eduardo\Desktop\GadgetInterop\GmailReader\obj\Debug\GmailReader.dll
+C:\Users\Eduardo\Desktop\GadgetInterop\GmailReader\obj\Debug\GmailReader.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\MyWindowsUtilities\GmailReader\bin\Debug\GmailReader.dll
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\MyWindowsUtilities\GmailReader\bin\Debug\GmailReader.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\MyWindowsUtilities\GmailReader\bin\Debug\GmailReader.tlb
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\MyWindowsUtilities\GmailReader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\MyWindowsUtilities\GmailReader\obj\Debug\GmailReader.Properties.Resources.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\MyWindowsUtilities\GmailReader\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\MyWindowsUtilities\GmailReader\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\MyWindowsUtilities\GmailReader\obj\Debug\GmailReader.dll
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\MyWindowsUtilities\GmailReader\obj\Debug\GmailReader.pdb

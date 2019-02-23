@@ -1,0 +1,10 @@
+bin\Debug\GmailReader.dll
+bin\Debug\GmailReader.pdb
+C:\GadgetInterop\GmailReader\bin\Debug\GmailReader.tlb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GmailReader.Properties.Resources.resources
+obj\Debug\GmailReader.csproj.GenerateResource.Cache
+obj\Debug\GmailReader.dll
+obj\Debug\GmailReader.pdb
+C:\Users\Tyler\Desktop\gm\GadgetInterop\GmailReader\bin\Debug\GmailReader.tlb
+C:\Documents and Settings\tbrinks\Desktop\New WinZip File\gm\GadgetInterop\GmailReader\bin\Debug\GmailReader.tlb

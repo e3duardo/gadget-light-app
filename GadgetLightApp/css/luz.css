@@ -1,0 +1,85 @@
+body
+{
+	width: 130px;
+	height: 130px;
+	margin: 0px;
+	padding: 0px;
+}
+
+a, a:hover, a:visited
+{
+	color: White; 
+	font-size: 18pt;
+	text-decoration: none;
+}
+
+a:hover
+{
+	text-decoration: underline;	
+}
+
+.config
+{
+	position: absolute;
+	color: #990000;
+	left: 20px;
+	top: 45px;
+	font-size: 12pt;
+	text-align: center;
+	font-weight: bold;
+}
+
+.configUndocked
+{
+	position: absolute;
+	color: #990000;
+	left: 60px;
+	top: 100px;
+	font-size: 20pt;
+	text-align: center;
+	font-weight: bold;
+}
+
+.ones
+{
+	position: absolute; 
+	top: 92px; 
+	left: 96px; 
+}
+
+.tens
+{
+	position: absolute; 
+	top: 92px; 
+	left: 88px; 
+}
+
+.hundreds
+{
+	position: absolute; 
+	top: 39px; 
+	left: 52px; 
+	background:"#ff6633";
+}
+
+
+.onesUndocked
+{
+	position: absolute; 
+	top: 185px; 
+	left: 190px;
+}
+
+.tensUndocked
+{
+	position: absolute; 
+	top: 185px; 
+	left: 180px;
+}
+
+.hundredsUndocked
+{
+	position: absolute; 
+	top: 185px; 
+	left: 170px;
+}

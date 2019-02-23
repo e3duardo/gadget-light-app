@@ -1,0 +1,61 @@
+<Mcml xmlns="http://schemas.microsoft.com/2008/mcml"
+      xmlns:c="resx://MediaCenterLightApp/MediaCenterLightApp.Resources/Controls"
+      
+      xmlns:me="Me"
+      
+      xmlns:cor="assembly://MsCorLib/System">
+
+  <UI Name="Test">
+
+
+    <Properties>
+      <cor:String Name="Content" String="$Required" />
+      <Font Name="Font" FontName="Segoe Media Center Light" FontSize="46" />
+    </Properties>
+
+
+    <Locals>
+      <Command Name="Command"
+               Description="Button Test"/>
+    </Locals>
+
+    <Content>
+      <Panel Layout="Dock" Padding="0,32,48,0">
+        <Children>
+          <Clip Layout="Anchor" Alpha="0.85" FadeSize="90" Orientation="Vertical" ShowNear="false">
+            <LayoutInput>
+              <DockLayoutInput Position="Top" Alignment="Far" />
+            </LayoutInput>
+            <Children>
+              <Text Content="Que Haja Luz" Color="DeepSkyBlue" Font="[Font]" />
+            </Children>
+          </Clip>
+
+          <Clip Layout="Center"  >
+            <Layout>
+              <FlowLayout Orientation="Vertical" Spacing="4,0"/>
+            </Layout>
+            <Children>
+              <c:Button Model="[Command]"/>
+              <c:Button Model="[Command]"/>
+            </Children>
+          </Clip>
+        </Children>
+      </Panel>
+
+      <!--<Panel >
+        <Layout>
+          <FlowLayout Orientation="Vertical" Spacing="4,0"/>
+        </Layout>
+        <Children>
+          <c:Button Model="[Command]"/>
+        </Children>
+      </Panel>-->
+
+
+
+    </Content>
+
+  </UI>
+
+</Mcml>

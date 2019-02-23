@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gadget>
+  <name>QueHajaLuz Gadget</name>
+  <namespace>MyWindowsUtilities.GadgetLightApp</namespace>
+  <version>1.0.0.0</version>
+  <author name="DoSoft">
+      <logo src="images/Application.png" height="48" width="48"/>
+  </author>
+  <copyright>© 2011</copyright>
+  <description>Alternar o estado da luz do meu quarto, por meio de software e hardware próprio.</description>
+  <icons>
+    <icon height="48" width="48" src="images/Application.png"/>
+  </icons>
+  <hosts>
+    <host name="sidebar">
+      <base type="HTML" apiVersion="1.0.0" src="Luz.html"/>
+      <permissions>Full</permissions>
+      <platform minPlatformVersion="1.0"/>
+      <defaultImage src="images/Application.png" />
+    </host>
+  </hosts>
+</gadget>

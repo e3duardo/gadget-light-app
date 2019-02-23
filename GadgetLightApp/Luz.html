@@ -1,0 +1,26 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <script type="text/javascript" language="javascript" src="js/GadgetInterop.js"></script>
+    <script type="text/javascript" language="javascript" src="js/luz.js"></script>
+    <title>QueHajaLuz Gadget</title>
+    <link href="css/luz.css" rel="stylesheet" type="text/css" />
+</head>
+<body onLoad="LoadLuz();">
+    <g:background id="backgroundImage" src="url(images/tomada_ON.png)" style="position: absolute;top: 0px; left:0px; width: 130px; height: 130px;" onClick="AlternarLuz();"></g:background>
+    
+	<!--div style="position: absolute;top: 39px; left:52px; width: 24px; height: 47px; cursor:pointer; background-image:url(images/OFF.png);" id="interruptor" onclick="AlternarLuz()"></div>
+    <!--<g:image src="images/ON.png" top="39" left="52" width="24" height="47" id="imgTest" />-->
+    
+    <div id="mailCount" class="zeroes" unselectable="on">
+        <a id="mailCountLink" href="javascript:void(0);" onClick="AlternarLuz();">1</a>
+    </div>
+    
+    <!--div id="config" unselectable="on">
+        <g:text id="setupText">Click settings<br />to start</g:text>
+    </div-->
+   
+    <script language="javascript" type="text/javascript">
+        ReadMail();
+    </script>
+</body>
+</html>
